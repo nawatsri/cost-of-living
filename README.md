@@ -1,7 +1,7 @@
 # cost-of-living
 Contributors:
-Nawat,
-Rushil, 
-Amonwan,
-Siddardha,
-Jyotirmaya
+Amonwan Bunyadarba,
+Jyotirmaya Patro,
+Nawat Srisawat,
+Siddardha Nelapudi,
+Rushil Saini
